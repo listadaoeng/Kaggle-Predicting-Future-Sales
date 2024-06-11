@@ -1,4 +1,4 @@
-# Kaggle-Predicting-Future-Sales
+# IONET-Predicting-PRE-Sales
 
 [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 
@@ -14,8 +14,8 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=python&style=social)](https://github.com/iamsivab)
 
 #### Few popular hashtags - 
-### `#Sales Prediction` `#Time Series` `#Ensembling`
-### `#XGBoost` `#Parameter Tuning` `#LightGBM`
+### `#Sales Limit` `#Deposit Series` `#20.000 $IO`
+### `#Binance Smart Chain` `#Parameter  Deposit` `#11.06.2024 14:00`
 
 ### Motivation
 In this competition I was working with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. 
