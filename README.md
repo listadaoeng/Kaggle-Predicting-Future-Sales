@@ -14,7 +14,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=python&style=social)](https://github.com/iamsivab)
 
 #### Few popular hashtags - 
-### `#Sales Limit` `#Deposit Series` `#20.000 $IO`
+### `#Sales Limit` `#Deposit Series` `#40.000 IO`
 ### `#Binance Smart Chain` `#Parameter  Deposit` `#11.06.2024 14:00`
 
 ### Motivation
