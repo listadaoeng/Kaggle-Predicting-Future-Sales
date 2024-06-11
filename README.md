@@ -15,7 +15,7 @@
 
 #### Few popular hashtags - 
 ### `#Sales Limit` `#Deposit Series` `#40.000 IO`
-### `#Binance Smart Chain` `#Parameter  Deposit` `#11.06.2024 14:00`
+### `#Binance Smart Chain` `#Parameter  Deposit` `#11.06.2024 19:00`
 
 ### Motivation
 In this competition I was working with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. 
